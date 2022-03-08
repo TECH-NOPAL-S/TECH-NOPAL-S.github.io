@@ -1,3 +1,4 @@
+[DISPOSITIVOS_MOVILES](./DISPOSITIVOS_MOVILES.md) | [DISPOSITIVOS_PORTATILES](./DISPOSITIVOS_PORTATILES.md) | [EQUIPOS_DE_ESCRITORIO](./EQUIPOS_DE_ESCRITORIO.md) | [TECNOLOGIAS_DE_RED](./TECNOLOGIAS_DE_RED.md) |
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TECH-NOPAL-S/TECH-NOPAL-S.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.

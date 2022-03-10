@@ -6,3 +6,16 @@ SI LO QUE ESTAS BUSCANDO ES:
 2. VENDER 
  
 ALGO DE TECNOLOGIA ESTAS EN EL LUGAR INDICADO
+
+### PAGINA PRINCIPAL DE VENTAS
+
+## TARJETA GRAFICA GT 1030
+Graphic Engine. NVIDIA® GeForce GT 1030.
+Bus Standard. PCI Express 3.0.
+OpenGL.
+Video Memory. 2GB GDDR5.
+Engine Clock. OC Mode - GPU Boost Clock : 1506 MHz , GPU Base Clock : 1266 MHz. Gaming Mode (Default) - GPU Boost Clock : 1468 MHz , GPU Base Clock : 1228 MHz.
+CUDA Core. 384.
+Memory Speed. 6008 MHz.
+Memory Interface. 64-bit.
+

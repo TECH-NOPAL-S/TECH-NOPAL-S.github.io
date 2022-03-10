@@ -18,5 +18,6 @@ Engine Clock. OC Mode - GPU Boost Clock : 1506 MHz , GPU Base Clock : 1266 MHz. 
 CUDA Core. 384.
 Memory Speed. 6008 MHz.
 Memory Interface. 64-bit.
+PRECIO ANUNCIADO ES DE $4,123 [EN AMAZOM](https://www.amazon.com.mx/Gigabyte-GV-N1030D4-2GL-Graphic-Card-GeForce/dp/B07C3DWK1Z/ref=asc_df_B07C3DWK1Z/?tag=gledskshopmx-20&linkCode=df0&hvadid=295492073482&hvpos=&hvnetw=g&hvrand=8760631704467057726&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010043&hvtargid=pla-714787412072&psc=1)
 
 ![HUBO UN ERROR, NUESTROS NOPALEROS LO ARREGLARAN PRONTO](https://m.media-amazon.com/images/I/715fqILF10L._AC_SS450_.jpg)

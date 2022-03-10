@@ -21,3 +21,15 @@ Lector de huellas en botón de encendido y unidad óptica opcionales; puertos/ra
 PRECIO ANUNCIADO DE $10,000 EN [LENOVO](https://www.lenovo.com/mx/es/laptops/ideapad/serie-300/IdeaPad-3i-15-inch-Intel/p/81WB00S2LM?cid=mx:sem:ssc|se|google|ssc+high+cp|||es_MX81WB00S2LM|6457108255|76968978603|pla-1513661637752|shopping|mixed|all&gclid=EAIaIQobChMI_NjukdK89gIVdBatBh3ZVgfvEAQYAiABEgJnMfD_BwE)
 
 ![HUBO UN PROBLEMA, UNO DE NUESTROS NOPALEROS LO SOLUICIONARA PRONTO](https://www.lenovo.com/medias/lenovo-laptop-ideapad-3-15-intel-hero.png?context=bWFzdGVyfHJvb3R8MzAzNDQ1fGltYWdlL3BuZ3xoNjYvaDY2LzEwNzU3MjQxNTAzNzc0LnBuZ3xjMzU3NWY4OGEyYjYzYTEwOGFlYzhiNWJhODEwYzA1MTlkNDYxODI3ZGQxM2IzYTRhYmY4M2YzY2NjYjhhOGJj)
+
+## ALIENWARE X 15 R1
+
+Intel Core i9-11900H de 11.a generación
+45 W
+8 NUCLEOS
+Hasta 4,9 GHz
+Intel UHD Graphics
+
+PRECIO ANUNCIADO DE $55,801 EN [DELL](https://www.dell.com/mx/p/alienware-x15-r1-laptop/pd?oc=la_a15ho_i7165123060wwnxhcc_522&gacd=9702095-14001-5761040-273595096-0&dgc=ST&ds_rl=1294378&ds_rl=1294378&gclid=EAIaIQobChMImdXvhdO89gIVlxatBh0GogDkEAQYASABEgLU2PD_BwE&gclsrc=aw.ds)
+
+![HUBO UN PROBLEMA, UNO DE NUESTROS NOPALEROS LO SOLUICIONARA PRONTO](https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/alienware_notebooks/x15_non-touch_non-tobii/spi/ng/notebook-alienware-x15-campaign-hero-504x350-ng-ntp.psd?fmt=jpg&wid=504&hei=350)

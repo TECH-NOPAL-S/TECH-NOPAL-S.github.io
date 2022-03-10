@@ -1,6 +1,6 @@
 [DISPOSITIVOS_MOVILES](./DISPOSITIVOS_MOVILES.md) | [DISPOSITIVOS_PORTATILES](./DISPOSITIVOS_PORTATILES.md) | [EQUIPOS_DE_ESCRITORIO](./EQUIPOS_DE_ESCRITORIO.md) | [TECNOLOGIAS_DE_RED](./TECNOLOGIAS_DE_RED.md) | [PAGINA_PRICIPAL](./index.md) |
 
-## BIENVENIDO A DISPOSITIVOOS MOVILES
+## BIENVENIDO A DISPOSITIVOS MOVILES
 
 EN ESTE LADO DE ESTA PAGINA ENCONTRARAS DISPOSITIVOS MOVILES 
 
@@ -159,4 +159,21 @@ Dolby Atmos
 PRECIO ANUNCIADO DE $20,689 EN [AMAZON](https://www.amazon.com.mx/SAMSUNG-Galaxy-Flip3-8GB_256GB-Black/dp/B09F5CNGR5/ref=asc_df_B09F5CNGR5/?tag=gledskshopmx-20&linkCode=df0&hvadid=547233335738&hvpos=&hvnetw=g&hvrand=9164630340857337239&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010043&hvtargid=pla-1437348825294&psc=1)
 
 ![HUBO UN ERROR, NUESTROS NOPALEROS LO ARREGLARAN PRONTO](https://user-images.githubusercontent.com/99769697/157768438-b0f4a6c9-c2ba-42f1-a278-4f5487fca870.png)
+
+## HUAWEI MATE X
+
+Pantalla: 8", 2480 x 2200 pixels
+Procesador: Kirin 980 2.6GHz
+RAM: 8GB
+Almacenamiento: 512GB
+Expansión: NM
+Cámara: Triple, 40MP+16MP+8MP
+Batería: 4500 mAh
+OS: Android 9.0
+Perfil: 11 mm
+Peso: 295 g
+
+PRECIO PUBLICADO DE $54,840 EN [SHOPEE](https://es.aliexpress.com/item/4000742529707.html?gatewayAdapt=glo2esp&_randl_currency=MXN&_randl_shipto=MX&src=google&memo1=freelisting&aff_fcid=86d2fe5b64d7494fbac6f5cd8ba489d4-1646952884608-09793-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=86d2fe5b64d7494fbac6f5cd8ba489d4-1646952884608-09793-UneMJZVf&terminal_id=8b4d3eb99a8b4a908a6210b1f3d82bb5&afSmartRedirect=y)
+
+![HUBO UN ERROR, NUESTROS NOPALEROS LO ARREGLARAN PRONTO](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSnYqFr_bxQBfaa1kB9LCmqRZOZfj5r-SgfEvragta3Om61NHYD_d1wLniEPTKl4w0ov3leL3pJg_9lJ7g9_LKjxWnJv1dk16vM-fh7cY_YpVc_WJqOsOvBd8Ua&usqp=CAE)
 

@@ -18,4 +18,4 @@ Engine Clock. OC Mode - GPU Boost Clock : 1506 MHz , GPU Base Clock : 1266 MHz. 
 CUDA Core. 384.
 Memory Speed. 6008 MHz.
 Memory Interface. 64-bit.
-[HUBO UN ERROR, NUESTROS NOPALEROS LO ARREGLARAN PRONTO](https://m.media-amazon.com/images/I/715fqILF10L._AC_SS450_.jpg)
+![HUBO UN ERROR, NUESTROS NOPALEROS LO ARREGLARAN PRONTO](https://m.media-amazon.com/images/I/715fqILF10L._AC_SS450_.jpg)

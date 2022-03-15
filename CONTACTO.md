@@ -7,3 +7,6 @@
 ### FB TECH-NOPAL-S
 ### INSTAGRAM TECH-NOPAL-S
 ### TWITTER TECH-NOPAL-S
+
+
+![wa link_3g3c7p](https://user-images.githubusercontent.com/99769697/158484500-8031b94f-d3fe-4ebc-a8cc-0663ba1c6c2c.png)

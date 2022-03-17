@@ -19,10 +19,11 @@ TENEMOS UNA SUCURSAL EN CDMDX CUAHTEMOC No.225
   <input type="text" id="lname" name="lname" value="Tus apellidos"><br>
   <label for="name">CORREO ELECTRONICO:</label><br>
   <input type="text" id="fn name" name="name" value="@gmail.com"><br>
-  <label for="lname">Fecha de Cita:</label><br>
-  <input type="text" id="lname" name="name" value="Example:12-2-22"><br>
+  <label for="birthday">Fecha de Cita:</label>
+  <input type="date" id="birthday" name="birthday">
+ 
   
-  
+ 
   <input type="submit" value="ENVIAR">
   </form>
   

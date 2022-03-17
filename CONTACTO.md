@@ -19,7 +19,7 @@
   <label for="name">CORREO ELECTRONICO:</label><br>
   <input type="text" id="fn name" name="name" value="Example:technopals@gmail.com"><br>
   <label for="lname">Fecha de Cita:</label><br>
-  input type="text" id="lname" name="lname" value="Example: 12-2-22"><br>
+  <input type="text" id="lname" name="name" value="Example:12-2-22"><br>
   
   </form>
   

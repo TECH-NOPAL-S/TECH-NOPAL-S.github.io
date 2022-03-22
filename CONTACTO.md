@@ -18,7 +18,7 @@ TENEMOS UNA SUCURSAL EN CDMDX CUAHTEMOC No.225
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="Tus apellidos"><br>
   <label for="name">CORREO ELECTRONICO:</label><br>
-  <input type="text" id="fn name" name="name" value="@gmail.com"><br>
+  <input type="email" id="fn name" name="name" value="@gmail.com"><br>
   <label for="birthday">Fecha de Cita:</label>
   <input type="date" id="birthday" name="birthday">
  

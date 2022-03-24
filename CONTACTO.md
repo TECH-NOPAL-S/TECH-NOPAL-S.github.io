@@ -12,7 +12,7 @@ TENEMOS UNA SUCURSAL EN CDMDX CUAHTEMOC No.225
 
 ![wa link_3g3c7p](https://user-images.githubusercontent.com/99769697/158484500-8031b94f-d3fe-4ebc-a8cc-0663ba1c6c2c.png)
 
-<form action="/action_page.php" method="post">
+<form action="https://formspree.io/f/mgedzgbo" method="post">
   <label for="name">Nombres:</label><br>
   <input type="text" id="fn name" name="name" value="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
